@@ -12,16 +12,16 @@
   <nav>
     <ol role='navigation'>
       <li>
-        <a href='#'>alpha</a>
+        <a href='about.html'>about</a>
       </li>
       <li>
-        <a href='#'>bravo</a>
+        <a href='contact.html'>contact</a>
       </li>
       <li>
-        <a href='#'>charlie</a>
+        <a href='#'>email</a>
       </li>
       <li>
-        <a href='#'>delta</a>
+        <a href='#'>order</a>
       </li>
     </ol>
     <form role='search'>
